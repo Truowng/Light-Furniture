@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Arsenal&display=swap");
+
+.primary-menu-open #primary-menu-trigger svg:nth-child(1),
+.mfp-wrap > .mfp-close {
+  display: block !important;
+}
+
+.content-wrap {
+  padding: 0;
+}
+
+.light-furniture-footer-container {
+  border-top: 1px solid #808088 !important;
+}
+
+.light-furniture-footer {
+  background-color: #000 !important;
+}
+
+#section-services,
+#section-project {
+  margin: 0;
+}
+
+#section-project {
+  background-color: #000;
+}
+
+#section-project .project-item-title {
+  font-family: "Arsenal", serif !important;
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(5px);
+}
+
+.about-text-description {
+  font-family: "Arsenal", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  letter-spacing: 0px;
+}
+
+.menu-container > .menu-item > .menu-link {
+  margin: 0 !important;
+  font-family: "Playfair Display";
+  font-weight: 400;
+  font-size: 20px !important;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+
+.fslider p {
+  font-family: "Arsenal", sans-serif !important;
+  font-weight: 400;
+  font-style: normal !important;
+  font-size: 22px !important;
+  letter-spacing: 0px !important;
+}
+
+.dark .heading-block > span:not(.before-heading) {
+  font-family: "Arsenal", sans-serif;
+}
+
+.item-categories h5 {
+  font-family: "Arsenal", sans-serif !important;
+  font-weight: 400 !important;
+  font-size: 18px;
+}
